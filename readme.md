@@ -5,7 +5,7 @@ Implementation of MoTTA in Pytorch. It is a model-pruning-based test-time adapta
 ## Install packages
 
 ```bash
-$ pip install -r requirements
+$ pip install -r requirements.txt
 ```
 
 ## Usage of the model
