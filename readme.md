@@ -1,4 +1,4 @@
-## Test-Time Adaptation on Noisy Data via Model-pruning-based Filtering and Flatness-aware Entropy Minimization
+## An implementation
 
 Implementation of MoTTA in Pytorch. It is a model-pruning-based test-time adaptation methods for noisy data. The main model logic is implemented in motta.py and optimizer.py.
 
